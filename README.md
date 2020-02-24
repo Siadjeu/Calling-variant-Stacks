@@ -1,3 +1,3 @@
 # Calling-variant-Stacks
 
-This script is only for documention purposes
+This script is only for documentation purposes
